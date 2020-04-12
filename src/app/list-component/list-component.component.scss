@@ -1,0 +1,17 @@
+th {
+  cursor: pointer;
+  padding: 0.1em;
+  white-space: nowrap;
+}
+
+th:hover {
+  background: blue;
+  color: white;
+}
+td {
+  padding: 0.2em;
+  padding-bottom: 2em;
+}
+tr.selected {
+  border: 2px solid red;
+}

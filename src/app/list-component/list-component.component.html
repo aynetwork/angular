@@ -1,0 +1,81 @@
+
+<div class="alert alert-success">
+  use <i class="glyphicon glyphicon-arrow-left"></i> and <i class="glyphicon glyphicon-arrow-right"></i> arrows, Enter and Backspace buttons to navigate questions
+</div>
+
+<div class="row" >
+  <div class="col-sm-6" >
+    <table class="table">
+      <tr>
+        <th class="text-center" (click)="sortColumn($event, 'title')">Title
+          <span *ngIf="localSort === 'title'">
+            <i *ngIf="order == 'asc'" class="glyphicon glyphicon-chevron-down"></i>
+            <i *ngIf="order == 'desc'" class="glyphicon glyphicon-chevron-up"></i>
+          </span>
+        </th>
+        <th class="text-center" (click)="sortColumn($event, 'author')">
+          Author
+          <span *ngIf="localSort === 'author'">
+            <i *ngIf="order == 'asc'" class="glyphicon glyphicon-chevron-down"></i>
+            <i *ngIf="order == 'desc'" class="glyphicon glyphicon-chevron-up"></i>
+          </span>
+        </th>
+        <th class="text-center" (click)="sortColumn($event, 'answer_count')">
+          Answers
+          <span *ngIf="localSort === 'answer_count'">
+            <i *ngIf="order == 'asc'" class="glyphicon glyphicon-chevron-down"></i>
+            <i *ngIf="order == 'desc'" class="glyphicon glyphicon-chevron-up"></i>
+          </span>
+        </th>
+      </tr>
+      <tr
+          *ngFor="let item of questions; let i = index;"
+          [class.selected]="currentSelected == i"
+      >
+        <td>
+          <div>
+<!--            <span *ngIf="currentSelected == i"></span>-->
+            <a routerLink="/crisis-center/{{item.question_id}}" routerLinkActive="active">{{ item.title }}</a>
+          </div>
+          <span *ngFor="let tag of item.tags;">
+            <a class="badge" href="/" (click)="showTag($event, tag)">{{ tag }}</a>
+          </span>
+        </td>
+        <td class="text-center">
+          <div>
+            <a [href]="[item.owner.user_id]"  (click)="showDetails($event, item.owner.user_id)">
+              <span>{{ item.owner.display_name }}</span>
+            </a>
+          </div>
+        </td>
+        <td class="text-center">
+          <span>{{ item.answer_count }}</span>
+        </td>
+      </tr>
+    </table>
+  </div>
+  <div class="col-sm-6">
+    <div *ngIf="noData">
+      <table class="table">
+        <tr>
+          <th class="text-center">Title</th>
+        </tr>
+        <tr class="cart-item" *ngFor="let item of userQuestions; let i = index;">
+          <td>
+            <div>
+              <a routerLink="{{item.question_id}}" routerLinkActive="active">{{ item.title }}</a>
+            </div>
+          </td>
+          <td class="text-center">
+            <div>
+              <a [href]="[item.owner.user_id]"  (click)="showDetails($event, item.owner.user_id)">
+                <span>{{ item.owner.display_name }}</span>
+              </a>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
+

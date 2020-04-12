@@ -1,0 +1,16 @@
+
+<button class="btn btn-success" appBackButton>Back</button>
+<div *ngIf="question">
+
+
+  <h1>{{question.title}}</h1>
+
+  <table>
+    <tr *ngFor="let answer of answers; let i = index;">
+      <td><h6>Answer #{{i+1}}</h6></td>
+      <td><img src="{{answer.owner.profile_image}}" alt="" class="thumbnail image" /></td>
+      <td>      <div>Answer id : {{answer.answer_id}}</div>
+      </td>
+    </tr>
+  </table>
+</div>

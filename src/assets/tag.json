@@ -2,787 +2,821 @@
   "items": [
     {
       "tags": [
-        "opencv"
+        "angular",
+        "promise",
+        "rxjs",
+        "angular-promise",
+        "angular-observable"
       ],
       "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
+        "reputation": 13787,
+        "user_id": 6364715,
         "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
-      },
-      "is_answered": false,
-      "view_count": 51,
-      "answer_count": 1,
-      "score": 0,
-      "last_activity_date": 1574712829,
-      "creation_date": 1574701936,
-      "last_edit_date": 1574704612,
-      "question_id": 59036919,
-      "link": "https://stackoverflow.com/questions/59036919/how-to-make-white-pixels-brighter-with-opencv",
-      "title": "How to make white pixels brighter with opencv?"
-    },
-    {
-      "tags": [
-        "spring",
-        "spring-boot",
-        "one-to-many"
-      ],
-      "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
-        "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
-      },
-      "is_answered": false,
-      "view_count": 32,
-      "answer_count": 0,
-      "score": 0,
-      "last_activity_date": 1573721556,
-      "creation_date": 1573663384,
-      "last_edit_date": 1573721556,
-      "question_id": 58841726,
-      "link": "https://stackoverflow.com/questions/58841726/how-to-save-child-field-using-requestbody-in-spring-boot",
-      "title": "How to save child field using @RequestBody in spring-boot?"
-    },
-    {
-      "tags": [
-        "java",
-        "spring",
-        "hibernate",
-        "spring-boot"
-      ],
-      "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
-        "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
+        "profile_image": "https://i.stack.imgur.com/NmnSO.jpg?s=128&g=1",
+        "display_name": "Rohit",
+        "link": "https://stackoverflow.com/users/6364715/rohit"
       },
       "is_answered": true,
-      "view_count": 152,
-      "accepted_answer_id": 58057714,
-      "answer_count": 3,
-      "score": 1,
-      "last_activity_date": 1569231344,
-      "creation_date": 1569221956,
-      "last_edit_date": 1569222037,
-      "question_id": 58057146,
-      "link": "https://stackoverflow.com/questions/58057146/how-to-get-data-from-raw-query-in-spring-boot",
-      "title": "How to get data from raw query in spring boot?"
-    },
-    {
-      "tags": [
-        "java",
-        "spring",
-        "spring-boot",
-        "jpa",
-        "spring-data-jpa"
-      ],
-      "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
-        "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
-      },
-      "is_answered": true,
-      "view_count": 52,
-      "accepted_answer_id": 58011037,
-      "answer_count": 1,
-      "score": 0,
-      "last_activity_date": 1568896039,
-      "creation_date": 1568895735,
-      "last_edit_date": 1568895892,
-      "question_id": 58010935,
-      "link": "https://stackoverflow.com/questions/58010935/how-to-get-specific-fields-from-onetoone-relation",
-      "title": "How to get specific fields from OneToOne relation?"
-    },
-    {
-      "tags": [
-        "angularjs"
-      ],
-      "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
-        "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
-      },
-      "is_answered": true,
-      "view_count": 1473,
-      "answer_count": 2,
-      "score": 2,
-      "last_activity_date": 1563690317,
-      "creation_date": 1369059424,
-      "question_id": 16651527,
-      "link": "https://stackoverflow.com/questions/16651527/any-crud-apps-with-angular",
-      "title": "Any CRUD apps with angular?"
-    },
-    {
-      "tags": [
-        "c++",
-        "memory-management",
-        "undefined-behavior",
-        "c-strings"
-      ],
-      "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
-        "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
-      },
-      "is_answered": true,
-      "view_count": 142,
-      "answer_count": 5,
-      "score": 1,
-      "last_activity_date": 1563211935,
-      "creation_date": 1563208038,
-      "last_edit_date": 1563210602,
-      "question_id": 57043811,
-      "link": "https://stackoverflow.com/questions/57043811/how-to-fix-an-error-when-resizing-array-in-c",
-      "title": "How to fix an error when resizing array in c++?"
-    },
-    {
-      "tags": [
-        "node.js",
-        "mongodb"
-      ],
-      "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
-        "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
-      },
-      "is_answered": true,
-      "view_count": 92,
-      "accepted_answer_id": 54136694,
-      "answer_count": 1,
-      "score": 2,
-      "last_activity_date": 1547153476,
-      "creation_date": 1547153237,
-      "question_id": 54136648,
-      "link": "https://stackoverflow.com/questions/54136648/how-to-get-max-values-for-distinct-elements-in-mongodb",
-      "title": "How to get max values for distinct elements in mongodb?"
-    },
-    {
-      "tags": [
-        "google-analytics"
-      ],
-      "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
-        "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
-      },
-      "is_answered": true,
-      "view_count": 25,
-      "accepted_answer_id": 53168368,
-      "answer_count": 1,
-      "score": 0,
-      "last_activity_date": 1541493560,
-      "creation_date": 1541440541,
-      "question_id": 53159702,
-      "link": "https://stackoverflow.com/questions/53159702/how-to-show-google-analytics-that-user-is-still-on-the-page",
-      "title": "How to show google-analytics that user is still on the page?"
-    },
-    {
-      "tags": [
-        "google-maps",
-        "google-maps-api-3"
-      ],
-      "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
-        "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
-      },
-      "is_answered": true,
-      "view_count": 1621,
-      "answer_count": 2,
-      "score": 5,
-      "last_activity_date": 1530626263,
-      "creation_date": 1404890546,
-      "last_edit_date": 1487159137,
-      "question_id": 24647583,
-      "link": "https://stackoverflow.com/questions/24647583/how-can-i-change-the-color-of-the-traffic-layer-in-google-maps",
-      "title": "How can I change the color of the traffic layer in Google Maps?"
-    },
-    {
-      "tags": [
-        "samsung-smart-tv",
-        "smart-tv",
-        "bbc-tal"
-      ],
-      "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
-        "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
-      },
-      "is_answered": false,
-      "view_count": 161,
-      "answer_count": 1,
-      "score": 0,
-      "last_activity_date": 1528650339,
-      "creation_date": 1528205773,
-      "question_id": 50701502,
-      "link": "https://stackoverflow.com/questions/50701502/how-to-compile-tal-project-smart-tv",
-      "title": "How to compile TAL project (SMART TV)?"
-    },
-    {
-      "tags": [
-        "mysql",
-        "sql"
-      ],
-      "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
-        "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
-      },
-      "is_answered": true,
-      "view_count": 19,
-      "accepted_answer_id": 50203226,
-      "answer_count": 1,
-      "score": 0,
-      "last_activity_date": 1525631699,
-      "creation_date": 1525631582,
-      "question_id": 50203205,
-      "link": "https://stackoverflow.com/questions/50203205/how-to-select-two-joined-columns",
-      "title": "How to select two joined columns?"
-    },
-    {
-      "tags": [
-        "node.js",
-        "websocket"
-      ],
-      "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
-        "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
-      },
-      "is_answered": true,
-      "view_count": 438,
-      "answer_count": 1,
-      "score": 0,
-      "last_activity_date": 1518779713,
-      "creation_date": 1518778748,
-      "question_id": 48825316,
-      "link": "https://stackoverflow.com/questions/48825316/why-websocket-server-closes-connections",
-      "title": "Why websocket server closes connections?"
-    },
-    {
-      "tags": [
-        "php",
-        "node.js",
-        "curl"
-      ],
-      "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
-        "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
-      },
-      "is_answered": true,
-      "view_count": 51,
-      "accepted_answer_id": 45982928,
-      "answer_count": 2,
-      "score": -2,
-      "last_activity_date": 1504186821,
-      "creation_date": 1504186192,
-      "question_id": 45982698,
-      "link": "https://stackoverflow.com/questions/45982698/how-to-protect-the-route-from-curl-in-express-node-js",
-      "title": "How to protect the route from curl in Express Node js?"
-    },
-    {
-      "tags": [
-        "php",
-        "regex"
-      ],
-      "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
-        "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
-      },
-      "is_answered": false,
-      "view_count": 34,
-      "closed_date": 1500412631,
-      "answer_count": 1,
-      "score": 0,
-      "last_activity_date": 1500412466,
-      "creation_date": 1500412041,
-      "question_id": 45177086,
-      "link": "https://stackoverflow.com/questions/45177086/how-to-delete-lines-without-alphabet-characters-using-regex",
-      "closed_reason": "Duplicate of…",
-      "title": "How to delete lines without alphabet characters using regex?"
-    },
-    {
-      "tags": [
-        "java",
-        "spring-mvc",
-        "file-upload"
-      ],
-      "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
-        "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
-      },
-      "is_answered": true,
-      "view_count": 1159,
-      "accepted_answer_id": 43573339,
-      "answer_count": 1,
-      "score": 0,
-      "last_activity_date": 1492962999,
-      "creation_date": 1492934193,
-      "question_id": 43568715,
-      "link": "https://stackoverflow.com/questions/43568715/required-multipartfile-parameter-file-is-not-present-error-when-trying-upload",
-      "title": "Required MultipartFile parameter &#39;file&#39; is not present error when trying upload a file"
-    },
-    {
-      "tags": [
-        "java",
-        "spring",
-        "spring-mvc"
-      ],
-      "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
-        "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
-      },
-      "is_answered": true,
-      "view_count": 62,
-      "accepted_answer_id": 43527025,
-      "answer_count": 2,
-      "score": 1,
-      "last_activity_date": 1492712338,
-      "creation_date": 1492700453,
-      "last_edit_date": 1492701004,
-      "question_id": 43523178,
-      "link": "https://stackoverflow.com/questions/43523178/convert-numerical-representation-to-human-readable-string",
-      "title": "Convert numerical representation to human readable string"
-    },
-    {
-      "tags": [
-        "java",
-        "hibernate",
-        "jpa"
-      ],
-      "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
-        "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
-      },
-      "is_answered": false,
-      "view_count": 42,
-      "closed_date": 1491412831,
-      "answer_count": 0,
-      "score": 0,
-      "last_activity_date": 1491411699,
-      "creation_date": 1491409618,
-      "last_edit_date": 1491411699,
-      "question_id": 43236749,
-      "link": "https://stackoverflow.com/questions/43236749/how-to-get-usernames-by-their-id-with-hibernate-and-jpa",
-      "closed_reason": "Duplicate of…",
-      "title": "How to get usernames by their id with Hibernate and JPA?"
-    },
-    {
-      "tags": [
-        "java",
-        "spring"
-      ],
-      "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
-        "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
-      },
-      "is_answered": true,
-      "view_count": 517,
-      "accepted_answer_id": 43169044,
-      "answer_count": 2,
-      "score": 1,
-      "last_activity_date": 1491144337,
-      "creation_date": 1490891214,
-      "last_edit_date": 1491132388,
-      "question_id": 43123443,
-      "link": "https://stackoverflow.com/questions/43123443/no-property-findallentries-found-for-type-entry",
-      "title": "No property findAllEntries found for type Entry"
-    },
-    {
-      "tags": [
-        "java",
-        "maven",
-        "tomcat",
-        "servlets"
-      ],
-      "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
-        "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
-      },
-      "is_answered": true,
-      "view_count": 73,
-      "accepted_answer_id": 42962481,
-      "answer_count": 2,
-      "score": 0,
-      "last_activity_date": 1490227463,
-      "creation_date": 1490211214,
-      "question_id": 42961063,
-      "link": "https://stackoverflow.com/questions/42961063/how-to-handle-servlet",
-      "title": "How to handle servlet?"
-    },
-    {
-      "tags": [
-        "java",
-        "hibernate",
-        "spring-mvc"
-      ],
-      "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
-        "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
-      },
-      "is_answered": false,
-      "view_count": 16,
-      "answer_count": 0,
-      "score": 1,
-      "last_activity_date": 1489847463,
-      "creation_date": 1489845340,
-      "last_edit_date": 1489847463,
-      "question_id": 42875262,
-      "link": "https://stackoverflow.com/questions/42875262/how-to-call-springhibernatemain",
-      "title": "How to call SpringHibernateMain?"
+      "view_count": 459117,
+      "protected_date": 1526641511,
+      "accepted_answer_id": 37365955,
+      "answer_count": 28,
+      "score": 1370,
+      "last_activity_date": 1578708683,
+      "creation_date": 1463845407,
+      "last_edit_date": 1578708683,
+      "question_id": 37364973,
+      "link": "https://stackoverflow.com/questions/37364973/what-is-the-difference-between-promises-and-observables",
+      "title": "What is the difference between Promises and Observables?"
     },
     {
       "tags": [
         "javascript",
-        "dom",
-        "optimization",
-        "iteration"
+        "angular",
+        "typescript",
+        "input"
       ],
       "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
+        "reputation": 38435,
+        "user_id": 3433751,
         "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
-      },
-      "is_answered": false,
-      "view_count": 53,
-      "answer_count": 0,
-      "score": 0,
-      "last_activity_date": 1487061358,
-      "creation_date": 1486989816,
-      "last_edit_date": 1487061358,
-      "question_id": 42204343,
-      "link": "https://stackoverflow.com/questions/42204343/iteration-with-creating-a-new-dom-element",
-      "title": "Iteration with creating a new DOM element"
-    },
-    {
-      "tags": [
-        "php",
-        "node.js",
-        "memcached"
-      ],
-      "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
-        "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
-      },
-      "is_answered": false,
-      "view_count": 111,
-      "answer_count": 0,
-      "score": 2,
-      "last_activity_date": 1468241217,
-      "creation_date": 1468239940,
-      "last_edit_date": 1468241217,
-      "question_id": 38306874,
-      "link": "https://stackoverflow.com/questions/38306874/real-time-update-with-nodejs-and-memcached",
-      "title": "Real time update with nodejs and memcached"
-    },
-    {
-      "tags": [
-        "php",
-        "mysql",
-        "laravel",
-        "eloquent"
-      ],
-      "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
-        "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
+        "accept_rate": 48,
+        "profile_image": "https://www.gravatar.com/avatar/a81372741efcd00e2a45cbc134b78ab0?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Anthony Breneli&#232;re",
+        "link": "https://stackoverflow.com/users/3433751/anthony-breneli%c3%a8re"
       },
       "is_answered": true,
-      "view_count": 73,
-      "accepted_answer_id": 37244307,
-      "answer_count": 1,
-      "score": 1,
-      "last_activity_date": 1463351051,
-      "creation_date": 1463349045,
-      "last_edit_date": 1463349726,
-      "question_id": 37244025,
-      "link": "https://stackoverflow.com/questions/37244025/two-joins-and-two-count-getting-laravel",
-      "title": "Two joins and two count getting laravel"
+      "view_count": 798285,
+      "accepted_answer_id": 38896469,
+      "answer_count": 35,
+      "score": 1311,
+      "last_activity_date": 1585331033,
+      "creation_date": 1470908672,
+      "last_edit_date": 1585331033,
+      "question_id": 38892771,
+      "link": "https://stackoverflow.com/questions/38892771/cant-bind-to-ngmodel-since-it-isnt-a-known-property-of-input",
+      "title": "Can&#39;t bind to &#39;ngModel&#39; since it isn&#39;t a known property of &#39;input&#39;"
     },
     {
       "tags": [
-        "php",
-        "jquery",
-        "ajax",
-        "laravel",
-        "laravel-5"
+        "angular",
+        "typescript",
+        "ngoninit"
       ],
       "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
+        "reputation": 11906,
+        "user_id": 4029338,
         "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
+        "accept_rate": 46,
+        "profile_image": "https://i.stack.imgur.com/8OFIH.jpg?s=128&g=1",
+        "display_name": "Haseena P A",
+        "link": "https://stackoverflow.com/users/4029338/haseena-p-a"
       },
       "is_answered": true,
-      "view_count": 5034,
-      "answer_count": 1,
-      "score": 2,
-      "last_activity_date": 1427272627,
-      "creation_date": 1424612408,
-      "question_id": 28658457,
-      "link": "https://stackoverflow.com/questions/28658457/ajax-form-submit-with-file-in-laravel-5",
-      "title": "Ajax form submit with file in Laravel 5"
+      "view_count": 462181,
+      "protected_date": 1570093237,
+      "accepted_answer_id": 35763811,
+      "answer_count": 25,
+      "score": 1030,
+      "last_activity_date": 1578495090,
+      "creation_date": 1456982043,
+      "last_edit_date": 1559092675,
+      "question_id": 35763730,
+      "link": "https://stackoverflow.com/questions/35763730/difference-between-constructor-and-ngoninit",
+      "title": "Difference between Constructor and ngOnInit"
     },
     {
       "tags": [
-        "laravel",
-        "laravel-routing",
-        "laravel-5"
+        "angular",
+        "angular2-template",
+        "angular2-databinding"
       ],
       "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
+        "reputation": 25670,
+        "user_id": 235648,
         "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
+        "accept_rate": 76,
+        "profile_image": "https://i.stack.imgur.com/Qwo97.jpg?s=128&g=1",
+        "display_name": "Aviad P.",
+        "link": "https://stackoverflow.com/users/235648/aviad-p"
       },
       "is_answered": true,
-      "view_count": 2210,
-      "accepted_answer_id": 28747960,
-      "answer_count": 1,
-      "score": 3,
-      "last_activity_date": 1424969763,
-      "creation_date": 1424968612,
-      "question_id": 28747821,
-      "link": "https://stackoverflow.com/questions/28747821/how-to-change-password-reset-messages-in-laravel-5",
-      "title": "How to change password reset messages in laravel 5?"
+      "view_count": 497173,
+      "protected_date": 1476122996,
+      "accepted_answer_id": 34424375,
+      "answer_count": 19,
+      "score": 821,
+      "last_activity_date": 1586437773,
+      "creation_date": 1437508119,
+      "last_edit_date": 1560102353,
+      "question_id": 31548311,
+      "link": "https://stackoverflow.com/questions/31548311/angular-html-binding",
+      "title": "Angular HTML binding"
     },
     {
       "tags": [
-        "php",
-        "laravel",
-        "laravel-4"
+        "angular",
+        "typescript",
+        "angular2-forms"
       ],
       "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
+        "reputation": 13997,
+        "user_id": 2433664,
         "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
-      },
-      "is_answered": false,
-      "view_count": 178,
-      "answer_count": 0,
-      "score": 0,
-      "last_activity_date": 1420575790,
-      "creation_date": 1420551606,
-      "last_edit_date": 1420575790,
-      "question_id": 27799874,
-      "link": "https://stackoverflow.com/questions/27799874/curly-brackets-not-working-for-form-in-laravel-4",
-      "title": "Curly brackets not working for form in laravel 4"
-    },
-    {
-      "tags": [
-        "php",
-        "mysql",
-        "laravel",
-        "laravel-4"
-      ],
-      "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
-        "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
+        "accept_rate": 79,
+        "profile_image": "https://i.stack.imgur.com/fTYHK.jpg?s=128&g=1",
+        "display_name": "FrancescoMussi",
+        "link": "https://stackoverflow.com/users/2433664/francescomussi"
       },
       "is_answered": true,
-      "view_count": 43,
-      "accepted_answer_id": 27129498,
-      "answer_count": 2,
-      "score": 0,
-      "last_activity_date": 1416930245,
-      "creation_date": 1416924617,
-      "last_edit_date": 1416925892,
-      "question_id": 27128923,
-      "link": "https://stackoverflow.com/questions/27128923/how-correctly-retrieve-the-data-in-laravel-in-many-to-many-relationship",
-      "title": "How correctly retrieve the data in laravel in many to many relationship?"
+      "view_count": 589680,
+      "protected_date": 1508314887,
+      "accepted_answer_id": 39152110,
+      "answer_count": 25,
+      "score": 764,
+      "last_activity_date": 1585422946,
+      "creation_date": 1472148546,
+      "last_edit_date": 1585422946,
+      "question_id": 39152071,
+      "link": "https://stackoverflow.com/questions/39152071/cant-bind-to-formgroup-since-it-isnt-a-known-property-of-form",
+      "title": "Can&#39;t bind to &#39;formGroup&#39; since it isn&#39;t a known property of &#39;form&#39;"
     },
     {
       "tags": [
-        "php",
-        "laravel",
-        "laravel-4"
+        "angular",
+        "rxjs",
+        "observable",
+        "subscription",
+        "angular-component-life-cycle"
       ],
       "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
+        "reputation": 8661,
+        "user_id": 1429493,
         "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
+        "accept_rate": 80,
+        "profile_image": "https://i.stack.imgur.com/Ots0M.jpg?s=128&g=1",
+        "display_name": "Sergey Tihon",
+        "link": "https://stackoverflow.com/users/1429493/sergey-tihon"
       },
       "is_answered": true,
-      "view_count": 554,
-      "accepted_answer_id": 26866275,
-      "answer_count": 1,
-      "score": 0,
-      "last_activity_date": 1415713325,
-      "creation_date": 1415712604,
-      "question_id": 26866074,
-      "link": "https://stackoverflow.com/questions/26866074/fast-refresh-kill-auth-in-laravel-how-to-fix",
-      "title": "Fast refresh kill auth in laravel. How to fix?"
+      "view_count": 165648,
+      "protected_date": 1571380376,
+      "accepted_answer_id": 41177163,
+      "answer_count": 20,
+      "score": 704,
+      "last_activity_date": 1583055637,
+      "creation_date": 1466754765,
+      "last_edit_date": 1513420064,
+      "question_id": 38008334,
+      "link": "https://stackoverflow.com/questions/38008334/angular-rxjs-when-should-i-unsubscribe-from-subscription",
+      "title": "Angular/RxJs When should I unsubscribe from `Subscription`"
+    },
+    {
+      "tags": [
+        "angular",
+        "rxjs",
+        "behaviorsubject",
+        "rxjs-observables"
+      ],
+      "owner": {
+        "reputation": 6755,
+        "user_id": 6620551,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d5ea089d88dbb7db8c6275e6b2d98f05?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Kevin Mark",
+        "link": "https://stackoverflow.com/users/6620551/kevin-mark"
+      },
+      "is_answered": true,
+      "view_count": 336110,
+      "accepted_answer_id": 40231605,
+      "answer_count": 8,
+      "score": 669,
+      "last_activity_date": 1582713488,
+      "creation_date": 1473866084,
+      "last_edit_date": 1582713488,
+      "question_id": 39494058,
+      "link": "https://stackoverflow.com/questions/39494058/behaviorsubject-vs-observable",
+      "title": "BehaviorSubject vs Observable?"
+    },
+    {
+      "tags": [
+        "angular",
+        "if-statement",
+        "angular-template"
+      ],
+      "owner": {
+        "reputation": 6083,
+        "user_id": 5486494,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/6c6c0f6c4b10f0f4ba8f3a1d78e32fc7?s=128&d=identicon&r=PG&f=1",
+        "display_name": "kawli norman",
+        "link": "https://stackoverflow.com/users/5486494/kawli-norman"
+      },
+      "is_answered": true,
+      "view_count": 652552,
+      "protected_date": 1532399181,
+      "accepted_answer_id": 43006589,
+      "answer_count": 16,
+      "score": 608,
+      "last_activity_date": 1579690999,
+      "creation_date": 1490379506,
+      "last_edit_date": 1539033317,
+      "question_id": 43006550,
+      "link": "https://stackoverflow.com/questions/43006550/how-to-use-ngif-else",
+      "title": "How to use *ngIf else?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angular"
+      ],
+      "owner": {
+        "reputation": 12314,
+        "user_id": 998318,
+        "user_type": "registered",
+        "accept_rate": 61,
+        "profile_image": "https://www.gravatar.com/avatar/c86e871cddc74d7ffb4ea5a0a9b5062f?s=128&d=identicon&r=PG",
+        "display_name": "Moshe Shaham",
+        "link": "https://stackoverflow.com/users/998318/moshe-shaham"
+      },
+      "is_answered": true,
+      "view_count": 53938,
+      "protected_date": 1508230192,
+      "accepted_answer_id": 38719154,
+      "answer_count": 14,
+      "score": 588,
+      "last_activity_date": 1566439924,
+      "creation_date": 1470135871,
+      "last_edit_date": 1488989697,
+      "question_id": 38718690,
+      "link": "https://stackoverflow.com/questions/38718690/huge-number-of-files-generated-for-every-angular-project",
+      "title": "Huge number of files generated for every Angular project"
+    },
+    {
+      "tags": [
+        "angular",
+        "angular-components",
+        "angular-template"
+      ],
+      "owner": {
+        "reputation": 7778,
+        "user_id": 2870735,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://graph.facebook.com/521884027/picture?type=large",
+        "display_name": "Mihai Răducanu",
+        "link": "https://stackoverflow.com/users/2870735/mihai-r%c4%83ducanu"
+      },
+      "is_answered": true,
+      "view_count": 557682,
+      "protected_date": 1534267144,
+      "accepted_answer_id": 35578093,
+      "answer_count": 18,
+      "score": 554,
+      "last_activity_date": 1586301863,
+      "creation_date": 1456231827,
+      "last_edit_date": 1558948128,
+      "question_id": 35578083,
+      "link": "https://stackoverflow.com/questions/35578083/what-is-the-equivalent-of-ngshow-and-nghide-in-angular-2",
+      "title": "What is the equivalent of ngShow and ngHide in Angular 2+?"
+    },
+    {
+      "tags": [
+        "angular",
+        "ngfor"
+      ],
+      "owner": {
+        "reputation": 13987,
+        "user_id": 1175327,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/1199adfcd4dd666a006dfedffbaf24a8?s=128&d=identicon&r=PG",
+        "display_name": "Vivendi",
+        "link": "https://stackoverflow.com/users/1175327/vivendi"
+      },
+      "is_answered": true,
+      "view_count": 788641,
+      "protected_date": 1568951865,
+      "accepted_answer_id": 35405648,
+      "answer_count": 7,
+      "score": 543,
+      "last_activity_date": 1577438405,
+      "creation_date": 1455528477,
+      "last_edit_date": 1516376681,
+      "question_id": 35405618,
+      "link": "https://stackoverflow.com/questions/35405618/ngfor-with-index-as-value-in-attribute",
+      "title": "ngFor with index as value in attribute"
+    },
+    {
+      "tags": [
+        "javascript",
+        "css",
+        "angular",
+        "angular-template",
+        "angular-ng-class"
+      ],
+      "owner": {
+        "reputation": 23436,
+        "user_id": 516389,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/e920b0c5b99e7710098f812bb839e100?s=128&d=identicon&r=PG",
+        "display_name": "daniel",
+        "link": "https://stackoverflow.com/users/516389/daniel"
+      },
+      "is_answered": true,
+      "view_count": 678300,
+      "accepted_answer_id": 41974490,
+      "answer_count": 18,
+      "score": 526,
+      "last_activity_date": 1582089227,
+      "creation_date": 1454932854,
+      "last_edit_date": 1542094674,
+      "question_id": 35269179,
+      "link": "https://stackoverflow.com/questions/35269179/angular-conditional-class-with-ngclass",
+      "title": "Angular: conditional class with *ngClass"
+    },
+    {
+      "tags": [
+        "angular",
+        "typescript",
+        "angular-components"
+      ],
+      "owner": {
+        "reputation": 5475,
+        "user_id": 2748475,
+        "user_type": "registered",
+        "accept_rate": 65,
+        "profile_image": "https://graph.facebook.com/1240274188/picture?type=large",
+        "display_name": "Aman Gupta",
+        "link": "https://stackoverflow.com/users/2748475/aman-gupta"
+      },
+      "is_answered": true,
+      "view_count": 524782,
+      "protected_date": 1531311925,
+      "accepted_answer_id": 35209681,
+      "answer_count": 11,
+      "score": 494,
+      "last_activity_date": 1582972328,
+      "creation_date": 1442831685,
+      "last_edit_date": 1576449312,
+      "question_id": 32693061,
+      "link": "https://stackoverflow.com/questions/32693061/how-can-i-select-an-element-in-a-component-template",
+      "title": "How can I select an element in a component template?"
+    },
+    {
+      "tags": [
+        "angular",
+        "ngfor",
+        "angular-ng-if"
+      ],
+      "owner": {
+        "reputation": 9620,
+        "user_id": 1128290,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/44f8b1defdf731241edd7403a950d12a?s=128&d=identicon&r=PG",
+        "display_name": "garethdn",
+        "link": "https://stackoverflow.com/users/1128290/garethdn"
+      },
+      "is_answered": true,
+      "view_count": 247243,
+      "accepted_answer_id": 39565934,
+      "answer_count": 14,
+      "score": 455,
+      "last_activity_date": 1577705964,
+      "creation_date": 1452177450,
+      "last_edit_date": 1549019260,
+      "question_id": 34657821,
+      "link": "https://stackoverflow.com/questions/34657821/ngif-and-ngfor-on-same-element-causing-error",
+      "title": "*ngIf and *ngFor on same element causing error"
+    },
+    {
+      "tags": [
+        "angular",
+        "angular2-routing"
+      ],
+      "owner": {
+        "reputation": 31661,
+        "user_id": 14316,
+        "user_type": "registered",
+        "accept_rate": 53,
+        "profile_image": "https://www.gravatar.com/avatar/f1eb8b540db13afbb3426637641534aa?s=128&d=identicon&r=PG",
+        "display_name": "pdeva",
+        "link": "https://stackoverflow.com/users/14316/pdeva"
+      },
+      "is_answered": true,
+      "view_count": 522300,
+      "protected_date": 1500281460,
+      "accepted_answer_id": 37909349,
+      "answer_count": 33,
+      "score": 446,
+      "last_activity_date": 1576664329,
+      "creation_date": 1451933488,
+      "last_edit_date": 1462366796,
+      "question_id": 34597835,
+      "link": "https://stackoverflow.com/questions/34597835/how-to-get-current-route",
+      "title": "How to get current route"
+    },
+    {
+      "tags": [
+        "angular",
+        "angular2-changedetection"
+      ],
+      "owner": {
+        "reputation": 5717,
+        "user_id": 3604283,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/c8GsR.png?s=128&g=1",
+        "display_name": "Jon Catmull",
+        "link": "https://stackoverflow.com/users/3604283/jon-catmull"
+      },
+      "is_answered": true,
+      "view_count": 264479,
+      "accepted_answer_id": 44686085,
+      "answer_count": 10,
+      "score": 437,
+      "last_activity_date": 1569481334,
+      "creation_date": 1469460481,
+      "last_edit_date": 1540647181,
+      "question_id": 38571812,
+      "link": "https://stackoverflow.com/questions/38571812/how-to-detect-when-an-input-value-changes-in-angular",
+      "title": "How to detect when an @Input() value changes in Angular?"
+    },
+    {
+      "tags": [
+        "angular"
+      ],
+      "owner": {
+        "reputation": 4674,
+        "user_id": 4917853,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://graph.facebook.com/931926383494838/picture?type=large",
+        "display_name": "Prasanjit Dey",
+        "link": "https://stackoverflow.com/users/4917853/prasanjit-dey"
+      },
+      "is_answered": true,
+      "view_count": 112421,
+      "protected_date": 1491483459,
+      "accepted_answer_id": 32681774,
+      "answer_count": 8,
+      "score": 428,
+      "last_activity_date": 1568010774,
+      "creation_date": 1442757831,
+      "last_edit_date": 1568010774,
+      "question_id": 32680244,
+      "link": "https://stackoverflow.com/questions/32680244/directive-v-s-component-in-angular",
+      "title": "@Directive v/s @Component in Angular"
+    },
+    {
+      "tags": [
+        "angular",
+        "angular2-di"
+      ],
+      "owner": {
+        "reputation": 4258,
+        "user_id": 4321757,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-nLKxmx_8tBM/AAAAAAAAAAI/AAAAAAAAAJM/i1tI_taEq0M/photo.jpg?sz=128",
+        "display_name": "Keith Otto",
+        "link": "https://stackoverflow.com/users/4321757/keith-otto"
+      },
+      "is_answered": true,
+      "view_count": 334997,
+      "protected_date": 1508495039,
+      "accepted_answer_id": 38000323,
+      "answer_count": 41,
+      "score": 421,
+      "last_activity_date": 1586276069,
+      "creation_date": 1466701665,
+      "last_edit_date": 1576689702,
+      "question_id": 37997824,
+      "link": "https://stackoverflow.com/questions/37997824/exception-cant-resolve-all-parameters",
+      "title": "EXCEPTION: Can&#39;t resolve all parameters"
+    },
+    {
+      "tags": [
+        "angular",
+        "angular-cli",
+        "angular6",
+        "angular-cli-v6"
+      ],
+      "owner": {
+        "reputation": 7364,
+        "user_id": 3486691,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://graph.facebook.com/567579701/picture?type=large",
+        "display_name": "ForestG",
+        "link": "https://stackoverflow.com/users/3486691/forestg"
+      },
+      "is_answered": true,
+      "view_count": 631466,
+      "protected_date": 1561760696,
+      "accepted_answer_id": 50333128,
+      "answer_count": 34,
+      "score": 407,
+      "last_activity_date": 1583393334,
+      "creation_date": 1526308726,
+      "question_id": 50333003,
+      "link": "https://stackoverflow.com/questions/50333003/could-not-find-module-angular-devkit-build-angular",
+      "title": "Could not find module &quot;@angular-devkit/build-angular&quot;"
+    },
+    {
+      "tags": [
+        "angular",
+        "typescript",
+        "object"
+      ],
+      "owner": {
+        "reputation": 59348,
+        "user_id": 5043867,
+        "user_type": "registered",
+        "accept_rate": 42,
+        "profile_image": "https://i.stack.imgur.com/RX8Aw.jpg?s=128&g=1",
+        "display_name": "Pardeep Jain",
+        "link": "https://stackoverflow.com/users/5043867/pardeep-jain"
+      },
+      "is_answered": true,
+      "view_count": 384114,
+      "protected_date": 1534605063,
+      "accepted_answer_id": 51491848,
+      "answer_count": 17,
+      "score": 403,
+      "last_activity_date": 1577571734,
+      "creation_date": 1456050504,
+      "last_edit_date": 1551380214,
+      "question_id": 35534959,
+      "link": "https://stackoverflow.com/questions/35534959/access-key-and-value-of-object-using-ngfor",
+      "title": "access key and value of object using *ngFor"
     },
     {
       "tags": [
         "html",
-        "file-upload"
+        "angular"
       ],
       "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
+        "reputation": 7659,
+        "user_id": 372296,
         "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
+        "accept_rate": 87,
+        "profile_image": "https://www.gravatar.com/avatar/b3a0300d506022a067fed1599cd48f91?s=128&d=identicon&r=PG",
+        "display_name": "RHarris",
+        "link": "https://stackoverflow.com/users/372296/rharris"
       },
-      "is_answered": false,
-      "view_count": 62,
-      "answer_count": 0,
-      "score": 0,
-      "last_activity_date": 1409134829,
-      "creation_date": 1409134829,
-      "question_id": 25524596,
-      "link": "https://stackoverflow.com/questions/25524596/is-possible-make-a-queue-in-html5-file-api",
-      "title": "Is possible make a queue in html5 file api?"
+      "is_answered": true,
+      "view_count": 462758,
+      "accepted_answer_id": 35945293,
+      "answer_count": 13,
+      "score": 396,
+      "last_activity_date": 1585165611,
+      "creation_date": 1457712953,
+      "last_edit_date": 1570362998,
+      "question_id": 35945001,
+      "link": "https://stackoverflow.com/questions/35945001/binding-select-element-to-object-in-angular",
+      "title": "Binding select element to object in Angular"
     },
     {
       "tags": [
-        "javascript",
-        "regex",
-        "preg-replace"
+        "angular"
       ],
       "owner": {
-        "reputation": 719,
-        "user_id": 1506183,
+        "reputation": 11267,
+        "user_id": 1590389,
         "user_type": "registered",
-        "accept_rate": 54,
-        "profile_image": "https://www.gravatar.com/avatar/7e65e130b6ea48087284a672a7146196?s=128&d=identicon&r=PG",
-        "display_name": "socm_",
-        "link": "https://stackoverflow.com/users/1506183/socm"
+        "accept_rate": 53,
+        "profile_image": "https://www.gravatar.com/avatar/51a41858b3dd958e7ed05e6c926a57f4?s=128&d=identicon&r=PG&f=1",
+        "display_name": "AngularM",
+        "link": "https://stackoverflow.com/users/1590389/angularm"
       },
       "is_answered": true,
-      "view_count": 41,
-      "accepted_answer_id": 25446245,
-      "answer_count": 2,
-      "score": 0,
-      "last_activity_date": 1408708818,
-      "creation_date": 1408707592,
-      "question_id": 25446145,
-      "link": "https://stackoverflow.com/questions/25446145/how-to-get-tag-content-with-regexp",
-      "title": "How to get tag content with regexp?"
+      "view_count": 349535,
+      "accepted_answer_id": 33548895,
+      "answer_count": 20,
+      "score": 388,
+      "last_activity_date": 1583228909,
+      "creation_date": 1446634618,
+      "last_edit_date": 1513460293,
+      "question_id": 33520043,
+      "link": "https://stackoverflow.com/questions/33520043/how-to-detect-a-route-change-in-angular",
+      "title": "How to detect a route change in Angular?"
+    },
+    {
+      "tags": [
+        "angular",
+        "angular-module"
+      ],
+      "owner": {
+        "reputation": 4808,
+        "user_id": 2822252,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://graph.facebook.com/100001479808509/picture?type=large",
+        "display_name": "Ramesh Papaganti",
+        "link": "https://stackoverflow.com/users/2822252/ramesh-papaganti"
+      },
+      "is_answered": true,
+      "view_count": 120654,
+      "accepted_answer_id": 39063231,
+      "answer_count": 6,
+      "score": 377,
+      "last_activity_date": 1577772082,
+      "creation_date": 1471773097,
+      "last_edit_date": 1550748018,
+      "question_id": 39062930,
+      "link": "https://stackoverflow.com/questions/39062930/what-is-the-difference-between-declarations-providers-and-import-in-ngmodule",
+      "title": "What is the difference between declarations, providers, and import in NgModule?"
+    },
+    {
+      "tags": [
+        "angular",
+        "angular2-changedetection"
+      ],
+      "owner": {
+        "reputation": 6861,
+        "user_id": 515279,
+        "user_type": "registered",
+        "accept_rate": 53,
+        "profile_image": "https://www.gravatar.com/avatar/c5ea3b30be6f62c5a96ccb58320e7f1f?s=128&d=identicon&r=PG",
+        "display_name": "jz87",
+        "link": "https://stackoverflow.com/users/515279/jz87"
+      },
+      "is_answered": true,
+      "view_count": 233612,
+      "accepted_answer_id": 34829089,
+      "answer_count": 5,
+      "score": 377,
+      "last_activity_date": 1563532607,
+      "creation_date": 1452949753,
+      "last_edit_date": 1553439558,
+      "question_id": 34827334,
+      "link": "https://stackoverflow.com/questions/34827334/triggering-change-detection-manually-in-angular",
+      "title": "Triggering change detection manually in Angular"
+    },
+    {
+      "tags": [
+        "angular",
+        "typescript"
+      ],
+      "owner": {
+        "reputation": 24482,
+        "user_id": 2000548,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/46b999a5b1498f5ef58f767845942269?s=128&d=identicon&r=PG",
+        "display_name": "Hongbo Miao",
+        "link": "https://stackoverflow.com/users/2000548/hongbo-miao"
+      },
+      "is_answered": true,
+      "view_count": 513763,
+      "protected_date": 1572331534,
+      "accepted_answer_id": 33716321,
+      "answer_count": 11,
+      "score": 355,
+      "last_activity_date": 1583829121,
+      "creation_date": 1447442402,
+      "last_edit_date": 1507477515,
+      "question_id": 33700266,
+      "link": "https://stackoverflow.com/questions/33700266/how-can-i-get-new-selection-in-select-in-angular-2",
+      "title": "How can I get new selection in &quot;select&quot; in Angular 2?"
+    },
+    {
+      "tags": [
+        "angular",
+        "webpack",
+        "systemjs",
+        "angular-cli"
+      ],
+      "owner": {
+        "reputation": 4883,
+        "user_id": 4155124,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://lh5.googleusercontent.com/-UR1y_hO6QHI/AAAAAAAAAAI/AAAAAAAAAFY/h3cVH7JAl5g/photo.jpg?sz=128",
+        "display_name": "Pat M",
+        "link": "https://stackoverflow.com/users/4155124/pat-m"
+      },
+      "is_answered": true,
+      "view_count": 194262,
+      "accepted_answer_id": 38765929,
+      "answer_count": 12,
+      "score": 349,
+      "last_activity_date": 1581078151,
+      "creation_date": 1465048787,
+      "last_edit_date": 1564672428,
+      "question_id": 37631098,
+      "link": "https://stackoverflow.com/questions/37631098/how-to-bundle-an-angular-app-for-production",
+      "title": "How to bundle an Angular app for production"
+    },
+    {
+      "tags": [
+        "angular",
+        "angular2-directives"
+      ],
+      "owner": {
+        "reputation": 333622,
+        "user_id": 215945,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/203qt.png?s=128&g=1",
+        "display_name": "Mark Rajcok",
+        "link": "https://stackoverflow.com/users/215945/mark-rajcok"
+      },
+      "is_answered": true,
+      "view_count": 108769,
+      "accepted_answer_id": 34561169,
+      "answer_count": 7,
+      "score": 344,
+      "last_activity_date": 1553252570,
+      "creation_date": 1451691542,
+      "last_edit_date": 1513499615,
+      "question_id": 34561168,
+      "link": "https://stackoverflow.com/questions/34561168/angular-exception-cant-bind-to-ngforin-since-it-isnt-a-known-native-propert",
+      "title": "Angular exception: Can&#39;t bind to &#39;ngForIn&#39; since it isn&#39;t a known native property"
+    },
+    {
+      "tags": [
+        "angular",
+        "angular2-routing"
+      ],
+      "owner": {
+        "reputation": 24482,
+        "user_id": 2000548,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/46b999a5b1498f5ef58f767845942269?s=128&d=identicon&r=PG",
+        "display_name": "Hongbo Miao",
+        "link": "https://stackoverflow.com/users/2000548/hongbo-miao"
+      },
+      "is_answered": true,
+      "view_count": 291458,
+      "accepted_answer_id": 36470719,
+      "answer_count": 14,
+      "score": 339,
+      "last_activity_date": 1577959088,
+      "creation_date": 1455677274,
+      "last_edit_date": 1553621288,
+      "question_id": 35446955,
+      "link": "https://stackoverflow.com/questions/35446955/how-to-go-back-last-page",
+      "title": "How to go back last page"
+    },
+    {
+      "tags": [
+        "angular",
+        "typescript",
+        "angular-material2",
+        "angular-forms"
+      ],
+      "owner": {
+        "reputation": 12582,
+        "user_id": 1015678,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/e12a835193e80c39b8483eb90780ff37?s=128&d=identicon&r=PG",
+        "display_name": "Lahiru Chandima",
+        "link": "https://stackoverflow.com/users/1015678/lahiru-chandima"
+      },
+      "is_answered": true,
+      "view_count": 166782,
+      "accepted_answer_id": 43220824,
+      "answer_count": 3,
+      "score": 338,
+      "last_activity_date": 1585331716,
+      "creation_date": 1491355977,
+      "last_edit_date": 1585331716,
+      "question_id": 43220348,
+      "link": "https://stackoverflow.com/questions/43220348/cant-bind-to-formcontrol-since-it-isnt-a-known-property-of-input-angular",
+      "title": "Can&#39;t bind to &#39;formControl&#39; since it isn&#39;t a known property of &#39;input&#39; - Angular2 Material Autocomplete issue"
+    },
+    {
+      "tags": [
+        "jquery",
+        "angular"
+      ],
+      "owner": {
+        "reputation": 6020,
+        "user_id": 2398523,
+        "user_type": "registered",
+        "accept_rate": 36,
+        "profile_image": "https://www.gravatar.com/avatar/61adc78e99ab0684836043f210017a8a?s=128&d=identicon&r=PG",
+        "display_name": "Waog",
+        "link": "https://stackoverflow.com/users/2398523/waog"
+      },
+      "is_answered": true,
+      "view_count": 389409,
+      "accepted_answer_id": 30662773,
+      "answer_count": 25,
+      "score": 334,
+      "last_activity_date": 1580386924,
+      "creation_date": 1433343693,
+      "last_edit_date": 1501393472,
+      "question_id": 30623825,
+      "link": "https://stackoverflow.com/questions/30623825/how-to-use-jquery-with-angular",
+      "title": "How to use jQuery with Angular?"
     }
   ],
   "has_more": true,
-  "quota_max": 10000,
-  "quota_remaining": 9822
+  "quota_max": 300,
+  "quota_remaining": 76
 }

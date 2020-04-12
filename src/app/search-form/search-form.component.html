@@ -1,0 +1,11 @@
+<div class="text-center">
+  <form class="form-inline" [formGroup]="searchForm" (ngSubmit)="onSubmit(searchForm.value)">
+    <div class="form-group">
+      <div class="input-group">
+        <input type="text" class="form-control col-lg-8" formControlName="search" placeholder="Search string">
+      </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+  </form>
+
+</div>

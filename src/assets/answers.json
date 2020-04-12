@@ -437,7 +437,7 @@
         "user_id": 1912860,
         "user_type": "registered",
         "accept_rate": 82,
-        "profile_image": "https://www.gravatar.com/avatar/d5faca61ffddc3610d4711ea14c9e39c?s=128&d=identicon&r=PG",
+        "profile_image": "https://www.gravatar.com/avatar/67278695fd0b2ad50aa522b42f717b58?s=128&d=identicon&r=PG",
         "display_name": "Vaseph",
         "link": "https://stackoverflow.com/users/1912860/vaseph"
       },
@@ -519,5 +519,5 @@
   ],
   "has_more": true,
   "quota_max": 10000,
-  "quota_remaining": 9990
+  "quota_remaining": 9975
 }
